@@ -1,0 +1,57 @@
+header {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+body{
+    background-color:antiquewhite;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mexicoFacts {
+    font-size:20px;
+    background-color: lightgrey;
+    width: 300px;
+    border: 5px solid rgb(9, 170, 245);
+    padding: 25px;
+    margin: auto;
+    font-style: italic;
+    text-align:center;
+    
+}
+
+.artClass {
+    background-color: rgb(89, 114, 117);
+    width: auto;
+    border: 5px solid rgb(9, 170, 245);
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    font-family: cursive;
+}
+
+footer {
+    text-align: center;
+}
